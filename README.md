@@ -95,6 +95,7 @@ GROQ_API_KEY=your_api_key_here
 streamlit run app.py
 
 
+---
 
 💡 Example Questions
 
@@ -103,7 +104,7 @@ streamlit run app.py
 - "What datasets were used?"
 - "Explain the proposed model."
 
-
+---
 
 📌 Future Improvements
 
@@ -112,6 +113,8 @@ streamlit run app.py
 - FAISS vector database
 - Highlighted citations
 - Deployment on Streamlit Cloud
+
+
 
 
 
