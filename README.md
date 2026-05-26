@@ -51,6 +51,7 @@ Groq LLM Response
 📂 Project Structure
 
 
+```text
 multimodal-rag/
 │
 ├── app.py
@@ -62,6 +63,7 @@ multimodal-rag/
 ├── data/
 ├── storage/
 └── venv/
+```
 
 
 
