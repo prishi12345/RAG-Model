@@ -1,4 +1,4 @@
-📄 AI Research Paper Assistant (RAG)
+AI Research Paper Assistant (RAG)
 
 An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload research papers in PDF format and ask natural language questions about the document.
 
@@ -6,7 +6,7 @@ Built using LlamaIndex, HuggingFace embeddings, Groq LLMs, and Streamlit.
 
 ---
 
-🚀 Features
+Features
 
 - Upload research papers as PDFs
 - Ask questions in natural language
@@ -15,9 +15,9 @@ Built using LlamaIndex, HuggingFace embeddings, Groq LLMs, and Streamlit.
 - Source page tracking for answers
 - Interactive Streamlit interface
 
+---
 
-
-🧠 Tech Stack
+Tech Stack
 
 - Python
 - Streamlit
@@ -28,7 +28,7 @@ Built using LlamaIndex, HuggingFace embeddings, Groq LLMs, and Streamlit.
 
 ---
 
-🏗️ System Architecture
+System Architecture
 
 
 PDF Upload
@@ -48,7 +48,7 @@ Groq LLM Response
 
 ---
 
-📂 Project Structure
+Project Structure
 
 
 ```text
@@ -65,10 +65,10 @@ multimodal-rag/
 └── venv/
 ```
 
+---
 
 
-
-▶️ How to Run
+How to Run
 
 ### 1. Clone the repository
 
@@ -97,7 +97,7 @@ streamlit run app.py
 
 ---
 
-💡 Example Questions
+Example Questions
 
 - "What is the main contribution of the paper?"
 - "Summarize the methodology section."
@@ -106,7 +106,7 @@ streamlit run app.py
 
 ---
 
-📌 Future Improvements
+Future Improvements
 
 - Multi-PDF support
 - Chat history memory
